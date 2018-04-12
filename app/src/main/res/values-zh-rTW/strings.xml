@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">測試0409_2</string>
+        <string name="studentid">學號</string>
+        <string name="name">姓名</string>
+        <string name="emsil">信箱</string>
+        <string name="send1">傳送1</string>
+        <string name="send2">傳送2</string>
+        <string name="hello">嗨你好</string>
+        <string name="uemail">你的信箱</string>
+        <string name="title">訊息</string>
+        <string name="ok">好</string>
+        <string name="nothing">無所謂</string>
+        <string name="cancel">取消</string>
+        <string name="title_activity_result">結果</string>
+</resources>

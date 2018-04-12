@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">test0409_2</string>
+    <string name="studentid">StudentId</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="send1">Send1</string>
+    <string name="send2">Send2</string>
+    <string name="hello">,nice to meet you</string>
+    <string name="uemail">Your email is</string>
+    <string name="title">Message</string>
+    <string name="ok">OK</string>
+    <string name="nothing">Nothing</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_result">Result</string>
+
+</resources>
